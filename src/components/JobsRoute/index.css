@@ -1,0 +1,71 @@
+.no-job-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  margin-left: 400px;
+}
+
+.no-job-img {
+  width: 340px;
+}
+
+.no-job-found-text {
+  font-size: 24px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.job-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.job-error-view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.failure-view-img {
+  width: 50px;
+}
+
+.job-failure-heading-text {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.job-failure-description {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.retry-btn {
+  padding: 9px;
+  border-radius: 6px;
+  background-color: blue;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+.sorting-route-container {
+  display: flex;
+  align-items: flex-start;
+  background-color: black;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 290px;
+  margin-left: 600px;
+}

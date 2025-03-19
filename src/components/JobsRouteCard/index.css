@@ -1,0 +1,138 @@
+.job-route-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 94%;
+  background-color: #272727;
+  margin: 13px;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.company-logo {
+  width: 56px;
+  margin-left: 20px;
+}
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rating-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 0px;
+}
+
+.rating-icon {
+  margin-bottom: 14px;
+}
+
+.rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-left: 6px;
+  margin-top: 0px;
+}
+
+.mini-tiltle-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.title-heading {
+  font-size: 23px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.rating-container {
+  display: flex;
+}
+
+.rating {
+  font-weight: 600;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.location-emlpoyye-container {
+  display: flex;
+}
+
+.location-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.location-icon {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.location {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 6px;
+}
+
+.emlpoyye-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.work-icon {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.type {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 6px;
+}
+
+.salary {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  align-self: flex-end;
+  margin-top: 0px;
+  margin-right: 10px;
+}
+
+.horizontal-line-card {
+  width: 95%;
+  margin-top: 0px;
+}
+
+.description-name {
+  font-size: 19px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 20px;
+  font-weight: bold;
+  margin-top: 6px;
+}
+
+.job-description {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 20px;
+  margin-top: 0px;
+}
